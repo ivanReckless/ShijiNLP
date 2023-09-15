@@ -13,3 +13,5 @@ This dataset exists in two formats: raw .txt and BIO annotation format.
         | --train.txt
 |--README.md
 ```
+
+**using these data please cite the following papers:**
